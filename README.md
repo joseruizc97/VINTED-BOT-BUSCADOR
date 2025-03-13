@@ -1,4 +1,4 @@
-# VINTED-BOT-BUSCADOR
+# VINTED-BOT-SCOUT
 Este es un bot automatizado que busca artículos de marcas específicas en Vinted y envía notificaciones a través de Telegram cuando encuentra artículos nuevos con precios entre 1€ y 10€. (Tanto el precio como las marcas podrán ser modificadas a gusto del usuario)
 
 # REQUISITOS
